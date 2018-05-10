@@ -1,0 +1,14 @@
+<scheme name="asg" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.25" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <attributes>
+    <option name="MARKDOWN_AUTO_LINK">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+        <option name="EFFECT_COLOR" value="ff" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

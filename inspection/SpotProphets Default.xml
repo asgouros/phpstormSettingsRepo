@@ -1,0 +1,58 @@
+<profile version="1.0">
+  <option name="myName" value="SpotProphets Default" />
+  <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="myValues">
+      <value>
+        <list size="7">
+          <item index="0" class="java.lang.String" itemvalue="nobr" />
+          <item index="1" class="java.lang.String" itemvalue="noembed" />
+          <item index="2" class="java.lang.String" itemvalue="comment" />
+          <item index="3" class="java.lang.String" itemvalue="noscript" />
+          <item index="4" class="java.lang.String" itemvalue="embed" />
+          <item index="5" class="java.lang.String" itemvalue="script" />
+          <item index="6" class="java.lang.String" itemvalue="div" />
+        </list>
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
+  <inspection_tool class="MessDetectorValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+    <scope name="Project Files" level="WEAK WARNING" enabled="false">
+      <option name="customRulesets">
+        <list>
+          <RulesetDescriptor>
+            <option name="name" value="25/8 Projects PHPMD rule set" />
+            <option name="path" value="/opt/25-8/shared/source/php.spotprophets.redesign/phpmd-ruleset.xml" />
+          </RulesetDescriptor>
+        </list>
+      </option>
+    </scope>
+    <option name="CODESIZE" value="true" />
+    <option name="CONTROVERSIAL" value="true" />
+    <option name="DESIGN" value="true" />
+    <option name="UNUSEDCODE" value="true" />
+    <option name="NAMING" value="true" />
+  </inspection_tool>
+  <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="false">
+    <scope name="Project Files" level="CS Warning" enabled="true">
+      <option name="CODING_STANDARD" value="Custom" />
+      <option name="CUSTOM_RULESET_PATH" value="/opt/project/cs-ruleset.xml" />
+      <option name="WARNING_HIGHLIGHT_LEVEL_NAME" value="CS Warning" />
+      <option name="SHOW_SNIFF_NAMES" value="true" />
+    </scope>
+  </inspection_tool>
+  <inspection_tool class="PhpDocMissingThrowsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpIllegalPsrClassPathInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpMethodOrClassCallIsNotCaseSensitiveInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpMultipleClassesDeclarationsInOneFile" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpTooManyParametersInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpTraditionalSyntaxArrayLiteralInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <scope name="SpotProphets-notVendor" level="WARNING" enabled="true" />
+  </inspection_tool>
+  <inspection_tool class="PhpUnhandledExceptionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpUsageOfSilenceOperatorInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="SqlResolveInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="SqlUnusedVariableInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="TsLint" enabled="true" level="ERROR" enabled_by_default="true" />
+</profile>

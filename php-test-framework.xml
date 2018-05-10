@@ -1,0 +1,35 @@
+<application>
+  <component name="PhpTestFrameworkSettings">
+    <test_tools>
+      <tool tool_name="Codeception">
+        <settings>
+          <configurations>
+            <configuration_by_sdk interpreter_id="f9617303-5e71-479c-9a97-6516272fd766" configuration_file_path="/opt/25-8/shared/source/php.spotprophets.redesign/codeception.yml" executable_path="/opt/25-8/shared/source/php.spotprophets.redesign/vendor/codeception/codeception/codecept" use_configuration_file="true" />
+            <configuration_by_sdk interpreter_id="aa471559-6eea-4348-ac1d-a27da23cda4c" executable_path="/opt/project/vendor/codeception/codeception/codecept" />
+          </configurations>
+        </settings>
+      </tool>
+    </test_tools>
+  </component>
+  <component name="PhpTestFrameworkVersionCache">
+    <tools_cache>
+      <tool tool_name="Codeception">
+        <cache>
+          <versions>
+            <info id="interpreter-aa471559-6eea-4348-ac1d-a27da23cda4c" version="2.3.7" />
+            <info id="interpreter-f9617303-5e71-479c-9a97-6516272fd766" version="2.3.7" />
+          </versions>
+        </cache>
+      </tool>
+      <tool tool_name="PHPUnit">
+        <cache>
+          <versions>
+            <info id="interpreter-1e5c4068-badd-4d19-8296-6f29018192e5" version="6.2.2" />
+            <info id="interpreter-aa471559-6eea-4348-ac1d-a27da23cda4c" version="6.2.2" />
+            <info id="interpreter-f9617303-5e71-479c-9a97-6516272fd766" version="6.2.2" />
+          </versions>
+        </cache>
+      </tool>
+    </tools_cache>
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="PHP Codesniffer Beautifier and Fixer (current file)" description="Fix PHP Codesniffer warnings using phpcbf" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEFAULT_SDK">
+    <exec>
+      <option name="COMMAND" value="phpcbf" />
+      <option name="PARAMETERS" value="--standard=PSR2 $FileDir$/$FileName$" />
+      <option name="WORKING_DIRECTORY" value="/opt/25-8/shared/source/php.spotprophets.redesign" />
+    </exec>
+  </tool>
+</toolSet>

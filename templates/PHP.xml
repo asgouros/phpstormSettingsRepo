@@ -1,0 +1,24 @@
+<templateSet group="PHP">
+  <template name="err" value="error_log('$sql$:'. var_export($sql$, true).' file:'.__FILE__.' line:'. __LINE__);" shortcut="SPACE" description="custom error_log" toReformat="false" toShortenFQNames="true">
+    <variable name="sql" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="@au" value="@author Andreas Sgouros &lt;andreas.sgouros@gmail.com&gt;" shortcut="ENTER" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="dblog" value="$log = ConnectionManager::getDataSource('default')-&gt;getLog(false, false);&#10;//debug($log);&#10;$lastQuery = $log['log'][(count($log['log'])-1)]['query'];" description="custom db_log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="@ie" value="throw new InvalidParamException(sprintf('Unsupported $name$: %s', $name$));" description="InvalidParameter exception template" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
