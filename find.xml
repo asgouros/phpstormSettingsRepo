@@ -35,9 +35,9 @@
       <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
-      <mask>*.ts</mask>
       <mask>*.phtml</mask>
       <mask>*.js</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
