@@ -1,6 +1,5 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="SpotProphets" />
     <option name="defaultScopeName" value="SpotProphets" />
     <option name="preserveCase" value="true" />
@@ -8,7 +7,6 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="SpotProphets" />
     <recentFileMasks>
@@ -40,8 +38,8 @@
       <mask>*.</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
-      <mask>*.ts</mask>
       <mask>*.phtml</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
