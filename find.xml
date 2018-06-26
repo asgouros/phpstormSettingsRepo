@@ -9,6 +9,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="SpotProphets" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
       <mask>*.phtl</mask>
       <mask>*.phl</mask>
@@ -38,8 +39,8 @@
       <mask>*.</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
-      <mask>*.phtml</mask>
       <mask>*.ts</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
