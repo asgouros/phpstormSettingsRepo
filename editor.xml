@@ -4,7 +4,7 @@
     <option name="FONT_SCALE" value="1.25" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
   <component name="InspectionProfileManager">
     <info color="eb7d01">
@@ -28,9 +28,5 @@
       <item index="7" class="java.lang.String" itemvalue="CS Warning" />
       <item index="8" class="java.lang.String" itemvalue="ERROR" />
     </list>
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
   </component>
 </application>
