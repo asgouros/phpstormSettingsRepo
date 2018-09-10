@@ -11,10 +11,11 @@
       <mapping pattern="npm-update" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping ext="alter_prophecies_add_marketplace_columns" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
+      <mapping ext="sharedbetslipssetunicodefields" type="PLAIN_TEXT" />
       <mapping ext="jlouk" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="alter_prophecies_add_marketplace_columns" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
