@@ -1,5 +1,6 @@
 <application>
   <component name="MessDetector">
+    <phpmd_settings_migrated />
     <phpmd_settings>
       <MessDetectorConfiguration tool_path="$USER_HOME$/shared/source/php.spotprophets.redesign/vendor/phpmd/phpmd/src/bin/phpmd" />
       <phpmd_by_interpreter interpreter_id="aa471559-6eea-4348-ac1d-a27da23cda4c" tool_path="/opt/project/vendor/phpmd/phpmd/src/bin/phpmd" />
@@ -7,6 +8,7 @@
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
     <phpcs_settings>
       <phpcs_by_interpreter interpreter_id="1e5c4068-badd-4d19-8296-6f29018192e5" tool_path="/opt/project/vendor/squizlabs/php_codesniffer/scripts/phpcs" />
       <phpcs_by_interpreter interpreter_id="aa471559-6eea-4348-ac1d-a27da23cda4c" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/opt/project/vendor/squizlabs/php_codesniffer/scripts/phpcs" />
@@ -16,7 +18,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="ssh://user@station-6-aio:22/usr/bin/php" id="f9617303-5e71-479c-9a97-6516272fd766" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="station-6-aio" PORT="22" USERNAME="user" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/user/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="station-6-aio" PORT="22" USERNAME="user" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/user/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="docker://t-dev-l-001.25-8projects.com:5000/php7.1-ms:171110-dev//usr/bin/php" id="1e5c4068-badd-4d19-8296-6f29018192e5" name="Docker php7.1-ms:171110-dev" debugger_id="php.debugger.XDebug">
         <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="t-dev-l-001.25-8projects.com:5000/php7.1-ms:171110-dev" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
