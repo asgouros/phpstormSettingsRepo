@@ -3,45 +3,11 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.phtl</mask>
-      <mask>*.phl</mask>
-      <mask>*.phmt</mask>
-      <mask>*.phm</mask>
-      <mask>*.phtm</mask>
-      <mask>*.j</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.ml</mask>
-      <mask>*.l</mask>
-      <mask>*.jsl</mask>
-      <mask>*.c</mask>
-      <mask>*.pphp</mask>
-      <mask>*.pph</mask>
-      <mask>*.pp</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.pht</mask>
-      <mask>*</mask>
-      <mask>*.cs</mask>
-      <mask>*.tmpl</mask>
-      <mask>*.tmp</mask>
-      <mask>*.tm</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.php</mask>
-      <mask>*.css</mask>
-      <mask>*.phtml</mask>
-      <mask>*.ts</mask>
-      <mask>*.js</mask>
-    </recentFileMasks>
   </component>
 </application>
