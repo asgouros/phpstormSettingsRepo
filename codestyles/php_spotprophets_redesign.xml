@@ -19,17 +19,19 @@
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
   </PHPCodeStyleSettings>
-  <SqlCodeStyleSettings version="0">
-    <option name="myVersion" value="0" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="TYPE_CASE" value="3" />
+  <SqlCodeStyleSettings version="1">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="IDENTIFIER_CASE" value="0" />
+    <option name="QUERY_EL_LINE" value="101" />
     <option name="SET_EL_WRAP" value="0" />
     <option name="SET_EL_COMMA" value="0" />
     <option name="WITH_EL_WRAP" value="0" />
     <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
     <option name="SELECT_ALIGN_AS" value="false" />
     <option name="FROM_EL_WRAP" value="2" />
+    <option name="FROM_WRAP_ON" value="true" />
+    <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="WHERE_EL_WRAP" value="3" />
     <option name="WHERE_EL_BOUND" value="2" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
