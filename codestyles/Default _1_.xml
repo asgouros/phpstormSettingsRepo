@@ -8,6 +8,13 @@
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
   </PHPCodeStyleSettings>
+  <SqlCodeStyleSettings version="1">
+    <option name="SUBQUERY_L_PAR_NL_OUTSIDE" value="true" />
+    <option name="SUBQUERY_L_PAR_NL_INSIDE" value="true" />
+    <option name="SUBQUERY_R_PAR_NL_INSIDE" value="true" />
+    <option name="SUBQUERY_INDENT_INSIDE" value="true" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
