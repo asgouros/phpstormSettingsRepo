@@ -9,6 +9,7 @@
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
   </PHPCodeStyleSettings>
   <SqlCodeStyleSettings version="1">
+    <option name="DISABLE_FORMATTING" value="true" />
     <option name="SUBQUERY_L_PAR_NL_OUTSIDE" value="true" />
     <option name="SUBQUERY_L_PAR_NL_INSIDE" value="true" />
     <option name="SUBQUERY_R_PAR_NL_INSIDE" value="true" />
