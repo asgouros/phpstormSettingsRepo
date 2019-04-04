@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/shared/source/php.spotprophets.redesign/vendor/squizlabs/php_codesniffer/scripts/phpcbf" />
       <option name="PARAMETERS" value="--standard=data/SpotProphetsCodingStandard/ruleset.xml $FileDir$" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/shared/source/php.spotprophets.redesign" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/NUC/shared/source/php.spotprophets.redesign" />
     </exec>
   </tool>
   <tool name="PHP Codesniffer Beautifier and Fixer (current file)" description="Fix PHP Codesniffer warnings using phpcbf" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
