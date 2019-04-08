@@ -15,7 +15,6 @@
       <tool tool_name="Codeception">
         <cache>
           <versions>
-            <info id="interpreter-aa471559-6eea-4348-ac1d-a27da23cda4c" version="2.4.5" />
             <info id="interpreter-f9617303-5e71-479c-9a97-6516272fd766" version="2.3.7" />
           </versions>
         </cache>
@@ -23,8 +22,6 @@
       <tool tool_name="PHPUnit">
         <cache>
           <versions>
-            <info id="interpreter-1e5c4068-badd-4d19-8296-6f29018192e5" version="6.2.2" />
-            <info id="interpreter-aa471559-6eea-4348-ac1d-a27da23cda4c" version="6.2.2" />
             <info id="interpreter-f9617303-5e71-479c-9a97-6516272fd766" version="6.2.2" />
           </versions>
         </cache>
