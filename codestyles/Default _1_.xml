@@ -1,20 +1,28 @@
 <code_scheme name="Default (1)" version="173">
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
+    <option name="ELSE_IF_STYLE" value="COMBINE" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
   </PHPCodeStyleSettings>
   <SqlCodeStyleSettings version="1">
+    <option name="myVersion" value="1" />
     <option name="DISABLE_FORMATTING" value="true" />
+    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="SUBQUERY_L_PAR_NL_OUTSIDE" value="true" />
     <option name="SUBQUERY_L_PAR_NL_INSIDE" value="true" />
     <option name="SUBQUERY_R_PAR_NL_INSIDE" value="true" />
     <option name="SUBQUERY_INDENT_INSIDE" value="true" />
-    <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
   </SqlCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />

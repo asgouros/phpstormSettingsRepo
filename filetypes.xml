@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="commit-msg" type=".env file" />
       <mapping pattern="jshintrc" type="JSHint" />
+      <mapping pattern="fre" type="PHP" />
       <mapping ext="ctp" type="PHP" />
       <mapping ext="orig" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
