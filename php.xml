@@ -8,7 +8,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="f9617303-5e71-479c-9a97-6516272fd766" name="Remote PHP 7" home="ssh://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="station-6-aio" PORT="22" USERNAME="user" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/user/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
+        <remote_data HOST="station-6.25-8projects.com" PORT="22" USERNAME="asgouros" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/user/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
       <interpreter id="0b787333-6ad5-4f79-b4cd-1f1c471fd6e4" name="Xampp PHP7.3" home="C:\xampp7.3\php\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
