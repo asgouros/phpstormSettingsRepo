@@ -5,9 +5,6 @@
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
       <jdbc-url>jdbc:sqlserver://t-dev-w-001.25-8projects.com:1453</jdbc-url>
-      <driver-properties>
-        <property name="applicationName" value="DataGrip" />
-      </driver-properties>
     </data-source>
     <data-source source="LOCAL" name="@t-stg-w-001.25-8projects.com" uuid="c89ef953-ef61-409e-9d7d-67974b28cf78">
       <driver-ref>sqlserver.ms</driver-ref>
