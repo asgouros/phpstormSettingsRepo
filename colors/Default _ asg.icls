@@ -13474,6 +13474,12 @@
         <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
+    <option name="PHP_DOC_VAR">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="BACKGROUND" value="ffffff" />
