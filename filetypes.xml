@@ -7,6 +7,7 @@
       <mapping ext="orig" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="commit-msg" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="npm-update" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
