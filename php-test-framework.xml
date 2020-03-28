@@ -5,6 +5,7 @@
         <settings>
           <configurations>
             <configuration_by_sdk interpreter_id="f9617303-5e71-479c-9a97-6516272fd766" configuration_file_path="/opt/25-8/shared/source/php.spotprophets.redesign/codeception.yml" executable_path="/opt/25-8/shared/source/php.spotprophets.redesign/vendor/codeception/codeception/codecept" use_configuration_file="true" />
+            <configuration_by_sdk interpreter_id="f5ffe53e-f0bc-4f2a-9bf7-6322afe78b1d" configuration_file_path="/opt/project/codeception.yml" executable_path="/opt/project/vendor/codeception/codeception/codecept" use_configuration_file="true" />
           </configurations>
         </settings>
       </tool>
@@ -15,8 +16,6 @@
       <tool tool_name="Codeception">
         <cache>
           <versions>
-            <info id="interpreter-73ec51c8-af7d-4b32-9918-849a25befeff" version="2.5.2" />
-            <info id="interpreter-75847034-23c1-4520-9b97-770292ca8bf8" version="2.5.2" />
             <info id="interpreter-f5ffe53e-f0bc-4f2a-9bf7-6322afe78b1d" version="2.5.2" />
             <info id="interpreter-f9617303-5e71-479c-9a97-6516272fd766" version="2.3.7" />
           </versions>
@@ -25,10 +24,6 @@
       <tool tool_name="PHPUnit">
         <cache>
           <versions>
-            <info id="interpreter-426ee65a-f62c-40aa-8e94-3fcbf8f7c51d" version="6.5.14" />
-            <info id="interpreter-73ec51c8-af7d-4b32-9918-849a25befeff" version="6.5.14" />
-            <info id="interpreter-75847034-23c1-4520-9b97-770292ca8bf8" version="6.5.14" />
-            <info id="interpreter-f5ffe53e-f0bc-4f2a-9bf7-6322afe78b1d" version="6.5.14" />
             <info id="interpreter-f9617303-5e71-479c-9a97-6516272fd766" version="6.2.2" />
           </versions>
         </cache>
