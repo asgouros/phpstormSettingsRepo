@@ -5,9 +5,14 @@
       <MessDetectorConfiguration tool_path="$USER_HOME$/shared/source/php.spotprophets.redesign/vendor/phpmd/phpmd/src/bin/phpmd" />
     </phpmd_settings>
   </component>
+  <component name="PhpCSFixer">
+    <phpcsfixer_settings>
+      <phpcs_fixer_by_interpreter interpreter_id="75847034-23c1-4520-9b97-770292ca8bf8" standards="PSR1;PSR2;Symfony;DoctrineAnnotation;PHP70Migration;PHP71Migration" tool_path="/opt/project/vendor/squizlabs/php_codesniffer/scripts/phpcbf" />
+    </phpcsfixer_settings>
+  </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <phpcs_by_interpreter interpreter_id="75847034-23c1-4520-9b97-770292ca8bf8" tool_path="/opt/project/vendor/bin/phpcs" />
+      <phpcs_by_interpreter interpreter_id="75847034-23c1-4520-9b97-770292ca8bf8" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/opt/project/vendor/bin/phpcs" />
       <phpcs_by_interpreter interpreter_id="f5ffe53e-f0bc-4f2a-9bf7-6322afe78b1d" tool_path="/opt/project/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
