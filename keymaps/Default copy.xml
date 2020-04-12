@@ -150,6 +150,7 @@
   </action>
   <action id="Tool_External Tools_PHP Codesniffer Beautifier and Fixer (current file)">
     <keyboard-shortcut first-keystroke="ctrl alt quote" />
+    <keyboard-shortcut first-keystroke="ctrl alt z" />
   </action>
   <action id="TsLintFileFixAction">
     <keyboard-shortcut first-keystroke="ctrl alt z" />
