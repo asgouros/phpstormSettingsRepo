@@ -6,6 +6,13 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="PHP Codesniffer Beautifier and Fixer (current folder)" description="Fix PHP Codesniffer issues using phpcbf" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="./vendor/bin/phpcbf" />
+      <option name="PARAMETERS" value="--standard=cs-ruleset.xml ./$FileDirRelativeToProjectRoot$/*.*" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
   <tool name="git push composer.lock" description="Commit and push composer.lock " showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="git commit -am --no-verify 'composer.lock commit'" />
