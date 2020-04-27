@@ -21,4 +21,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="supp" value="@phpcsSuppress SlevomatCodingStandard" description="Suppress PhpCs errors" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
 </templateSet>
