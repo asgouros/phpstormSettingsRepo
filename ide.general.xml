@@ -9,4 +9,11 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="git" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
