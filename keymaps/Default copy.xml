@@ -88,7 +88,7 @@
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
   <action id="Javascript.Linters.EsLint.Fix">
-    <keyboard-shortcut first-keystroke="ctrl alt z" />
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
   </action>
   <action id="JumpToLastWindow" />
   <action id="MethodDown" />
@@ -162,6 +162,9 @@
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.RollbackChangedLines" />
   <action id="Vcs.ShowMessageHistory" />
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
