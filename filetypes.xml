@@ -5,18 +5,18 @@
       <mapping pattern="jshintrc" type="JSHint" />
       <mapping pattern="fre" type="PHP" />
       <mapping ext="orig" type="PHP" />
-      <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="commit-msg" type="PLAIN_TEXT" />
       <mapping pattern="npm-update" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
-      <mapping ext="mo" type="PLAIN_TEXT" />
-      <mapping ext="rc" type="PLAIN_TEXT" />
-      <mapping ext="sharedbetslipssetunicodefields" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="alter_prophecies_add_marketplace_columns" type="PLAIN_TEXT" />
+      <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="jlouk" type="PLAIN_TEXT" />
+      <mapping ext="sharedbetslipssetunicodefields" type="PLAIN_TEXT" />
       <mapping pattern="commit-msg" type=".env file" />
     </extensionMap>
   </component>
