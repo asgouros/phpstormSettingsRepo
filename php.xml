@@ -252,9 +252,4 @@
       </interpreter>
     </phpInfoCache>
   </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="f9617303-5e71-479c-9a97-6516272fd766" load_method="PHPUNIT_PHAR" configuration_file_path="/opt/25-8/shared/source/php.spotprophets.redesign/vendor/25-8projects/events-menu/phpunit.xml" custom_loader_path="/home/25-8PROJECTS.LOCAL/asgouros/shared/source/php.spotprophets.redesign/vendor/autoload.php" phpunit_phar_path="/opt/25-8/shared/source/php.spotprophets.redesign/phpunit.phar" />
-    </phpunit_settings>
-  </component>
 </application>
