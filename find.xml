@@ -9,6 +9,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.vue" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,8 +21,8 @@
     <mask>*.js, *.ts</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
-    <mask>*.vue</mask>
     <mask>*.phtml</mask>
     <mask>*.php</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
