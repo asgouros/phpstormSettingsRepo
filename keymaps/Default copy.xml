@@ -151,9 +151,6 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
-  <action id="Tool_External Tools ***_PHP Codesniffer Beautifier and Fixer (current file)">
-    <keyboard-shortcut first-keystroke="ctrl alt z" />
-  </action>
   <action id="Tool_External Tools_PHP Codesniffer Beautifier and Fixer (current file)">
     <keyboard-shortcut first-keystroke="ctrl alt quote" />
     <keyboard-shortcut first-keystroke="ctrl alt z" />
