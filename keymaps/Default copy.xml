@@ -91,7 +91,7 @@
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
   <action id="Javascript.Linters.EsLint.Fix">
-    <keyboard-shortcut first-keystroke="ctrl alt x" />
+    <keyboard-shortcut first-keystroke="ctrl alt z" />
   </action>
   <action id="JumpToLastWindow" />
   <action id="MethodDown" />
@@ -153,10 +153,9 @@
   </action>
   <action id="Tool_External Tools_PHP Codesniffer Beautifier and Fixer (current file)">
     <keyboard-shortcut first-keystroke="ctrl alt quote" />
-    <keyboard-shortcut first-keystroke="ctrl alt z" />
   </action>
   <action id="TsLintFileFixAction">
-    <keyboard-shortcut first-keystroke="ctrl alt z" />
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
   </action>
   <action id="TypeHierarchy" />
   <action id="UsageView.ShowRecentFindUsages" />
