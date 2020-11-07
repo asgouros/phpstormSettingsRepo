@@ -1,7 +1,0 @@
-<application>
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" host="station-6.25-8projects.com" id="f1194e10-832c-490d-bf41-d3757d72ccd1" port="22" nameFormat="DESCRIPTIVE" username="asgouros" />
-    </configs>
-  </component>
-</application>
