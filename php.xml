@@ -472,6 +472,7 @@
     <phpunit_settings>
       <phpunit_by_interpreter interpreter_id="148814b4-2ba6-4a43-a8a1-aa721d2fcd2d" load_method="PHPUNIT_PHAR" configuration_file_path="/opt/project/phpunit.xml" custom_loader_path="" phpunit_phar_path="/opt/project/phpunit-8.5.phar" use_configuration_file="true" />
       <phpunit_by_interpreter interpreter_id="43aa52b5-4e6b-4fc0-b30f-3a20f2e1d2de" load_method="PHPUNIT_PHAR" configuration_file_path="/opt/project/phpunit.xml" custom_loader_path="/opt/project/phpunit-8.5.phar" phpunit_phar_path="/opt/project/phpunit-8.5.phar" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="75847034-23c1-4520-9b97-770292ca8bf8" load_method="PHPUNIT_PHAR" custom_loader_path="/opt/project/phpunit.phar" phpunit_phar_path="/opt/project/phpunit-8.5.phar" />
     </phpunit_settings>
   </component>
 </application>
