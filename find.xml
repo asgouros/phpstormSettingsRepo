@@ -22,11 +22,11 @@
     <mask>*.js, *.vue, *.ts</mask>
     <mask>*.po</mask>
     <mask>*.spec.js</mask>
-    <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.js, *.ts</mask>
     <mask>*.ts</mask>
     <mask>*.php</mask>
     <mask>*.phtml</mask>
+    <mask>*.css</mask>
   </component>
 </application>
