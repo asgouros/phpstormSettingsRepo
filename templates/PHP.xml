@@ -26,4 +26,9 @@
       <option name="PHP Comment" value="true" />
     </context>
   </template>
+  <template name="swi" value="switch () {&#10;  case :&#10;    break;&#10;   default:&#10;}" description="switch case" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
