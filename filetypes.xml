@@ -9,6 +9,7 @@
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="commit-msg" type="PLAIN_TEXT" />
       <mapping pattern="npm-update" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
