@@ -21,8 +21,8 @@
     <mask>*.ts</mask>
     <mask>*.phtml</mask>
     <mask>*.php</mask>
-    <mask>*.spec.js</mask>
     <mask>*.js, *.ts</mask>
     <mask>*.vue</mask>
+    <mask>*.spec.js</mask>
   </component>
 </application>
