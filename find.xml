@@ -7,7 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.spec.js" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,12 +18,12 @@
     <mask>*.js, *.vue, *.ts</mask>
     <mask>*.po</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.phtml</mask>
     <mask>*.php</mask>
     <mask>*.js, *.ts</mask>
     <mask>*.vue</mask>
     <mask>*.spec.js</mask>
+    <mask>*.js</mask>
   </component>
 </application>
