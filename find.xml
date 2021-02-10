@@ -1,6 +1,5 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
@@ -8,7 +7,6 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
@@ -17,15 +15,17 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.js, *.ts</mask>
-    <mask>*.ts</mask>
-    <mask>*.js</mask>
-    <mask>*.vue</mask>
-    <mask>*.phtml</mask>
-    <mask>*.php</mask>
-    <mask>*.spec.js</mask>
     <mask>*.js, *.vue, *.ts</mask>
+    <mask>*.po</mask>
+    <mask>*.css</mask>
+    <mask>*.phtml</mask>
+    <mask>*.js, *.ts</mask>
+    <mask>*.vue</mask>
+    <mask>*.spec.js</mask>
+    <mask>*.js</mask>
+    <mask>*Cest.php</mask>
+    <mask>*.php</mask>
+    <mask>*.ts</mask>
   </component>
 </application>

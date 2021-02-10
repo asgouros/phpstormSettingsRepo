@@ -24,14 +24,11 @@
         <property name="applicationName" value="DataGrip" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="@t-test-w-001.25-8projects.com" uuid="f0d9e714-03f1-4c52-a4f6-e4ca6f82efa0">
+    <data-source source="LOCAL" name="@t-qa-w-001.25-8projects.com" uuid="f0d9e714-03f1-4c52-a4f6-e4ca6f82efa0">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://t-test-w-001.25-8projects.com:1433</jdbc-url>
-      <driver-properties>
-        <property name="applicationName" value="DataGrip" />
-      </driver-properties>
+      <jdbc-url>jdbc:sqlserver://t-qa-w-001.25-8projects.com:1453</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="TEST" uuid="a7044f96-7923-4f61-802a-fe4258e56bbc">
       <driver-ref>sqlserver.ms</driver-ref>

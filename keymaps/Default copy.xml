@@ -1,8 +1,23 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="ctrl #10003c8" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="ctrl #10003c9" />
+  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl #10003b6" />
   </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
@@ -20,9 +35,14 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="CopyContentRootPath">
-    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
+  <action id="CopyElement" />
   <action id="CopyPaths" />
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt #10003c8" />
+  </action>
   <action id="DatabaseView.GenerateDDLAction" />
   <action id="Debugger.AddToWatch">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -30,8 +50,17 @@
   <action id="Debugger.Tree.AddToWatches">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="ctrl #10003c8" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl #10003c9" />
+  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="ctrl #10003b6" />
   </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorContextInfo" />
@@ -88,6 +117,7 @@
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
   </action>
+  <action id="Graph.ApplyCurrentLayout" />
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
   <action id="Javascript.Linters.EsLint.Fix">
@@ -133,6 +163,10 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="ScrollTreeToCenter" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowContent" />
@@ -150,6 +184,16 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="ctrl #10003c8" />
+  </action>
+  <action id="Terminal.Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="ctrl #10003c9" />
   </action>
   <action id="Tool_External Tools_PHP Codesniffer Beautifier and Fixer (current file)">
     <keyboard-shortcut first-keystroke="ctrl alt quote" />
