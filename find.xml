@@ -9,7 +9,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.phtml" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,11 +22,11 @@
     <mask>*.css</mask>
     <mask>*.js, *.ts</mask>
     <mask>*.vue</mask>
-    <mask>*.js</mask>
     <mask>*Cest.php</mask>
     <mask>*.spec.js</mask>
     <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*.phtml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
