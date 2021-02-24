@@ -161,7 +161,6 @@
   <MySQLCodeStyleSettings version="5">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
-    <option name="IDENTIFIER_CASE" value="2" />
     <option name="TYPE_CASE" value="2" />
     <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="QUERY_EL_LINE" value="101" />
@@ -353,6 +352,13 @@
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="MySQL">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
