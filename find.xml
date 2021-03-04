@@ -21,11 +21,11 @@
     <mask>*.css</mask>
     <mask>*.js, *.ts</mask>
     <mask>*Cest.php</mask>
-    <mask>*.spec.js</mask>
     <mask>*.phtml</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*.vue</mask>
+    <mask>*.spec.js</mask>
   </component>
 </application>
