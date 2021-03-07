@@ -3,6 +3,7 @@
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="notes-TEMP" type="AUTO_DETECTED" />
+      <mapping pattern="transifex-api-token" type="AUTO_DETECTED" />
       <mapping pattern="IAxiosResponse.ts" type="AUTO_DETECTED" />
       <mapping pattern="jshintrc" type="JSHint" />
       <mapping pattern="fre" type="PHP" />
